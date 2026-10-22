@@ -18,7 +18,7 @@ File: [e](file:///etc/passwd)
 Enc: [f](../../%2e%2e/%2e%2e/OUTSIDE-SECRET.md)
 Mixed: [g](./../../../secrets/token.md)
 Gh: [h](../../../../.github/CANARY.md)
-Gh2: [h](../../../../.github/workflows/ci.yml)
+Gh2: [h](../../../../.github/ci-canary.yml)
 Sib: [i](../../../pref-secret/SECRET.md)
 Bare: OUTSIDE-BARE.md and OUTSIDE-BARE.md and token.md and SECRET.md
 Nul: [j](../../shared/ok.md%00../../../OUTSIDE-SECRET.md)

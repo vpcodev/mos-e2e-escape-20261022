@@ -104,7 +104,7 @@
 {"name":"src-git","source":".git","version":"1.0.0","description":"esc fixture src-git"},
 {"name":"src-git-hooks","source":".git/hooks","version":"1.0.0","description":"esc fixture src-git-hooks"},
 {"name":"src-github-dir","source":".github","version":"1.0.0","description":"esc fixture src-github-dir"},
-{"name":"src-github-wf","source":".github/workflows","version":"1.0.0","description":"esc fixture src-github-wf"},
+{"name":"src-github-wf","source":".github/ci-dir","version":"1.0.0","description":"esc fixture src-github-wf"},
 {"name":"src-dot","source":".","version":"1.0.0","description":"esc fixture src-dot"},
 {"name":"src-slash","source":"./","version":"1.0.0","description":"esc fixture src-slash"},
 {"name":"src-empty","source":"","version":"1.0.0","description":"esc fixture src-empty"},
