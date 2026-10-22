@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "srv": {
+      "type": "http",
+      "url": "https://user:pass@example.com/mcp"
+    }
+  }
+}

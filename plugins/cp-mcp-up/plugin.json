@@ -1,0 +1,5 @@
+{
+  "name": "cp-mcp-up",
+  "version": "1.0.0",
+  "mcpServers": "../../../secrets/token.md"
+}

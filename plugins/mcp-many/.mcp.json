@@ -1,0 +1,1204 @@
+{
+  "mcpServers": {
+    "s1": {
+      "type": "http",
+      "url": "https://example.com/mcp1"
+    },
+    "s2": {
+      "type": "http",
+      "url": "https://example.com/mcp2"
+    },
+    "s3": {
+      "type": "http",
+      "url": "https://example.com/mcp3"
+    },
+    "s4": {
+      "type": "http",
+      "url": "https://example.com/mcp4"
+    },
+    "s5": {
+      "type": "http",
+      "url": "https://example.com/mcp5"
+    },
+    "s6": {
+      "type": "http",
+      "url": "https://example.com/mcp6"
+    },
+    "s7": {
+      "type": "http",
+      "url": "https://example.com/mcp7"
+    },
+    "s8": {
+      "type": "http",
+      "url": "https://example.com/mcp8"
+    },
+    "s9": {
+      "type": "http",
+      "url": "https://example.com/mcp9"
+    },
+    "s10": {
+      "type": "http",
+      "url": "https://example.com/mcp10"
+    },
+    "s11": {
+      "type": "http",
+      "url": "https://example.com/mcp11"
+    },
+    "s12": {
+      "type": "http",
+      "url": "https://example.com/mcp12"
+    },
+    "s13": {
+      "type": "http",
+      "url": "https://example.com/mcp13"
+    },
+    "s14": {
+      "type": "http",
+      "url": "https://example.com/mcp14"
+    },
+    "s15": {
+      "type": "http",
+      "url": "https://example.com/mcp15"
+    },
+    "s16": {
+      "type": "http",
+      "url": "https://example.com/mcp16"
+    },
+    "s17": {
+      "type": "http",
+      "url": "https://example.com/mcp17"
+    },
+    "s18": {
+      "type": "http",
+      "url": "https://example.com/mcp18"
+    },
+    "s19": {
+      "type": "http",
+      "url": "https://example.com/mcp19"
+    },
+    "s20": {
+      "type": "http",
+      "url": "https://example.com/mcp20"
+    },
+    "s21": {
+      "type": "http",
+      "url": "https://example.com/mcp21"
+    },
+    "s22": {
+      "type": "http",
+      "url": "https://example.com/mcp22"
+    },
+    "s23": {
+      "type": "http",
+      "url": "https://example.com/mcp23"
+    },
+    "s24": {
+      "type": "http",
+      "url": "https://example.com/mcp24"
+    },
+    "s25": {
+      "type": "http",
+      "url": "https://example.com/mcp25"
+    },
+    "s26": {
+      "type": "http",
+      "url": "https://example.com/mcp26"
+    },
+    "s27": {
+      "type": "http",
+      "url": "https://example.com/mcp27"
+    },
+    "s28": {
+      "type": "http",
+      "url": "https://example.com/mcp28"
+    },
+    "s29": {
+      "type": "http",
+      "url": "https://example.com/mcp29"
+    },
+    "s30": {
+      "type": "http",
+      "url": "https://example.com/mcp30"
+    },
+    "s31": {
+      "type": "http",
+      "url": "https://example.com/mcp31"
+    },
+    "s32": {
+      "type": "http",
+      "url": "https://example.com/mcp32"
+    },
+    "s33": {
+      "type": "http",
+      "url": "https://example.com/mcp33"
+    },
+    "s34": {
+      "type": "http",
+      "url": "https://example.com/mcp34"
+    },
+    "s35": {
+      "type": "http",
+      "url": "https://example.com/mcp35"
+    },
+    "s36": {
+      "type": "http",
+      "url": "https://example.com/mcp36"
+    },
+    "s37": {
+      "type": "http",
+      "url": "https://example.com/mcp37"
+    },
+    "s38": {
+      "type": "http",
+      "url": "https://example.com/mcp38"
+    },
+    "s39": {
+      "type": "http",
+      "url": "https://example.com/mcp39"
+    },
+    "s40": {
+      "type": "http",
+      "url": "https://example.com/mcp40"
+    },
+    "s41": {
+      "type": "http",
+      "url": "https://example.com/mcp41"
+    },
+    "s42": {
+      "type": "http",
+      "url": "https://example.com/mcp42"
+    },
+    "s43": {
+      "type": "http",
+      "url": "https://example.com/mcp43"
+    },
+    "s44": {
+      "type": "http",
+      "url": "https://example.com/mcp44"
+    },
+    "s45": {
+      "type": "http",
+      "url": "https://example.com/mcp45"
+    },
+    "s46": {
+      "type": "http",
+      "url": "https://example.com/mcp46"
+    },
+    "s47": {
+      "type": "http",
+      "url": "https://example.com/mcp47"
+    },
+    "s48": {
+      "type": "http",
+      "url": "https://example.com/mcp48"
+    },
+    "s49": {
+      "type": "http",
+      "url": "https://example.com/mcp49"
+    },
+    "s50": {
+      "type": "http",
+      "url": "https://example.com/mcp50"
+    },
+    "s51": {
+      "type": "http",
+      "url": "https://example.com/mcp51"
+    },
+    "s52": {
+      "type": "http",
+      "url": "https://example.com/mcp52"
+    },
+    "s53": {
+      "type": "http",
+      "url": "https://example.com/mcp53"
+    },
+    "s54": {
+      "type": "http",
+      "url": "https://example.com/mcp54"
+    },
+    "s55": {
+      "type": "http",
+      "url": "https://example.com/mcp55"
+    },
+    "s56": {
+      "type": "http",
+      "url": "https://example.com/mcp56"
+    },
+    "s57": {
+      "type": "http",
+      "url": "https://example.com/mcp57"
+    },
+    "s58": {
+      "type": "http",
+      "url": "https://example.com/mcp58"
+    },
+    "s59": {
+      "type": "http",
+      "url": "https://example.com/mcp59"
+    },
+    "s60": {
+      "type": "http",
+      "url": "https://example.com/mcp60"
+    },
+    "s61": {
+      "type": "http",
+      "url": "https://example.com/mcp61"
+    },
+    "s62": {
+      "type": "http",
+      "url": "https://example.com/mcp62"
+    },
+    "s63": {
+      "type": "http",
+      "url": "https://example.com/mcp63"
+    },
+    "s64": {
+      "type": "http",
+      "url": "https://example.com/mcp64"
+    },
+    "s65": {
+      "type": "http",
+      "url": "https://example.com/mcp65"
+    },
+    "s66": {
+      "type": "http",
+      "url": "https://example.com/mcp66"
+    },
+    "s67": {
+      "type": "http",
+      "url": "https://example.com/mcp67"
+    },
+    "s68": {
+      "type": "http",
+      "url": "https://example.com/mcp68"
+    },
+    "s69": {
+      "type": "http",
+      "url": "https://example.com/mcp69"
+    },
+    "s70": {
+      "type": "http",
+      "url": "https://example.com/mcp70"
+    },
+    "s71": {
+      "type": "http",
+      "url": "https://example.com/mcp71"
+    },
+    "s72": {
+      "type": "http",
+      "url": "https://example.com/mcp72"
+    },
+    "s73": {
+      "type": "http",
+      "url": "https://example.com/mcp73"
+    },
+    "s74": {
+      "type": "http",
+      "url": "https://example.com/mcp74"
+    },
+    "s75": {
+      "type": "http",
+      "url": "https://example.com/mcp75"
+    },
+    "s76": {
+      "type": "http",
+      "url": "https://example.com/mcp76"
+    },
+    "s77": {
+      "type": "http",
+      "url": "https://example.com/mcp77"
+    },
+    "s78": {
+      "type": "http",
+      "url": "https://example.com/mcp78"
+    },
+    "s79": {
+      "type": "http",
+      "url": "https://example.com/mcp79"
+    },
+    "s80": {
+      "type": "http",
+      "url": "https://example.com/mcp80"
+    },
+    "s81": {
+      "type": "http",
+      "url": "https://example.com/mcp81"
+    },
+    "s82": {
+      "type": "http",
+      "url": "https://example.com/mcp82"
+    },
+    "s83": {
+      "type": "http",
+      "url": "https://example.com/mcp83"
+    },
+    "s84": {
+      "type": "http",
+      "url": "https://example.com/mcp84"
+    },
+    "s85": {
+      "type": "http",
+      "url": "https://example.com/mcp85"
+    },
+    "s86": {
+      "type": "http",
+      "url": "https://example.com/mcp86"
+    },
+    "s87": {
+      "type": "http",
+      "url": "https://example.com/mcp87"
+    },
+    "s88": {
+      "type": "http",
+      "url": "https://example.com/mcp88"
+    },
+    "s89": {
+      "type": "http",
+      "url": "https://example.com/mcp89"
+    },
+    "s90": {
+      "type": "http",
+      "url": "https://example.com/mcp90"
+    },
+    "s91": {
+      "type": "http",
+      "url": "https://example.com/mcp91"
+    },
+    "s92": {
+      "type": "http",
+      "url": "https://example.com/mcp92"
+    },
+    "s93": {
+      "type": "http",
+      "url": "https://example.com/mcp93"
+    },
+    "s94": {
+      "type": "http",
+      "url": "https://example.com/mcp94"
+    },
+    "s95": {
+      "type": "http",
+      "url": "https://example.com/mcp95"
+    },
+    "s96": {
+      "type": "http",
+      "url": "https://example.com/mcp96"
+    },
+    "s97": {
+      "type": "http",
+      "url": "https://example.com/mcp97"
+    },
+    "s98": {
+      "type": "http",
+      "url": "https://example.com/mcp98"
+    },
+    "s99": {
+      "type": "http",
+      "url": "https://example.com/mcp99"
+    },
+    "s100": {
+      "type": "http",
+      "url": "https://example.com/mcp100"
+    },
+    "s101": {
+      "type": "http",
+      "url": "https://example.com/mcp101"
+    },
+    "s102": {
+      "type": "http",
+      "url": "https://example.com/mcp102"
+    },
+    "s103": {
+      "type": "http",
+      "url": "https://example.com/mcp103"
+    },
+    "s104": {
+      "type": "http",
+      "url": "https://example.com/mcp104"
+    },
+    "s105": {
+      "type": "http",
+      "url": "https://example.com/mcp105"
+    },
+    "s106": {
+      "type": "http",
+      "url": "https://example.com/mcp106"
+    },
+    "s107": {
+      "type": "http",
+      "url": "https://example.com/mcp107"
+    },
+    "s108": {
+      "type": "http",
+      "url": "https://example.com/mcp108"
+    },
+    "s109": {
+      "type": "http",
+      "url": "https://example.com/mcp109"
+    },
+    "s110": {
+      "type": "http",
+      "url": "https://example.com/mcp110"
+    },
+    "s111": {
+      "type": "http",
+      "url": "https://example.com/mcp111"
+    },
+    "s112": {
+      "type": "http",
+      "url": "https://example.com/mcp112"
+    },
+    "s113": {
+      "type": "http",
+      "url": "https://example.com/mcp113"
+    },
+    "s114": {
+      "type": "http",
+      "url": "https://example.com/mcp114"
+    },
+    "s115": {
+      "type": "http",
+      "url": "https://example.com/mcp115"
+    },
+    "s116": {
+      "type": "http",
+      "url": "https://example.com/mcp116"
+    },
+    "s117": {
+      "type": "http",
+      "url": "https://example.com/mcp117"
+    },
+    "s118": {
+      "type": "http",
+      "url": "https://example.com/mcp118"
+    },
+    "s119": {
+      "type": "http",
+      "url": "https://example.com/mcp119"
+    },
+    "s120": {
+      "type": "http",
+      "url": "https://example.com/mcp120"
+    },
+    "s121": {
+      "type": "http",
+      "url": "https://example.com/mcp121"
+    },
+    "s122": {
+      "type": "http",
+      "url": "https://example.com/mcp122"
+    },
+    "s123": {
+      "type": "http",
+      "url": "https://example.com/mcp123"
+    },
+    "s124": {
+      "type": "http",
+      "url": "https://example.com/mcp124"
+    },
+    "s125": {
+      "type": "http",
+      "url": "https://example.com/mcp125"
+    },
+    "s126": {
+      "type": "http",
+      "url": "https://example.com/mcp126"
+    },
+    "s127": {
+      "type": "http",
+      "url": "https://example.com/mcp127"
+    },
+    "s128": {
+      "type": "http",
+      "url": "https://example.com/mcp128"
+    },
+    "s129": {
+      "type": "http",
+      "url": "https://example.com/mcp129"
+    },
+    "s130": {
+      "type": "http",
+      "url": "https://example.com/mcp130"
+    },
+    "s131": {
+      "type": "http",
+      "url": "https://example.com/mcp131"
+    },
+    "s132": {
+      "type": "http",
+      "url": "https://example.com/mcp132"
+    },
+    "s133": {
+      "type": "http",
+      "url": "https://example.com/mcp133"
+    },
+    "s134": {
+      "type": "http",
+      "url": "https://example.com/mcp134"
+    },
+    "s135": {
+      "type": "http",
+      "url": "https://example.com/mcp135"
+    },
+    "s136": {
+      "type": "http",
+      "url": "https://example.com/mcp136"
+    },
+    "s137": {
+      "type": "http",
+      "url": "https://example.com/mcp137"
+    },
+    "s138": {
+      "type": "http",
+      "url": "https://example.com/mcp138"
+    },
+    "s139": {
+      "type": "http",
+      "url": "https://example.com/mcp139"
+    },
+    "s140": {
+      "type": "http",
+      "url": "https://example.com/mcp140"
+    },
+    "s141": {
+      "type": "http",
+      "url": "https://example.com/mcp141"
+    },
+    "s142": {
+      "type": "http",
+      "url": "https://example.com/mcp142"
+    },
+    "s143": {
+      "type": "http",
+      "url": "https://example.com/mcp143"
+    },
+    "s144": {
+      "type": "http",
+      "url": "https://example.com/mcp144"
+    },
+    "s145": {
+      "type": "http",
+      "url": "https://example.com/mcp145"
+    },
+    "s146": {
+      "type": "http",
+      "url": "https://example.com/mcp146"
+    },
+    "s147": {
+      "type": "http",
+      "url": "https://example.com/mcp147"
+    },
+    "s148": {
+      "type": "http",
+      "url": "https://example.com/mcp148"
+    },
+    "s149": {
+      "type": "http",
+      "url": "https://example.com/mcp149"
+    },
+    "s150": {
+      "type": "http",
+      "url": "https://example.com/mcp150"
+    },
+    "s151": {
+      "type": "http",
+      "url": "https://example.com/mcp151"
+    },
+    "s152": {
+      "type": "http",
+      "url": "https://example.com/mcp152"
+    },
+    "s153": {
+      "type": "http",
+      "url": "https://example.com/mcp153"
+    },
+    "s154": {
+      "type": "http",
+      "url": "https://example.com/mcp154"
+    },
+    "s155": {
+      "type": "http",
+      "url": "https://example.com/mcp155"
+    },
+    "s156": {
+      "type": "http",
+      "url": "https://example.com/mcp156"
+    },
+    "s157": {
+      "type": "http",
+      "url": "https://example.com/mcp157"
+    },
+    "s158": {
+      "type": "http",
+      "url": "https://example.com/mcp158"
+    },
+    "s159": {
+      "type": "http",
+      "url": "https://example.com/mcp159"
+    },
+    "s160": {
+      "type": "http",
+      "url": "https://example.com/mcp160"
+    },
+    "s161": {
+      "type": "http",
+      "url": "https://example.com/mcp161"
+    },
+    "s162": {
+      "type": "http",
+      "url": "https://example.com/mcp162"
+    },
+    "s163": {
+      "type": "http",
+      "url": "https://example.com/mcp163"
+    },
+    "s164": {
+      "type": "http",
+      "url": "https://example.com/mcp164"
+    },
+    "s165": {
+      "type": "http",
+      "url": "https://example.com/mcp165"
+    },
+    "s166": {
+      "type": "http",
+      "url": "https://example.com/mcp166"
+    },
+    "s167": {
+      "type": "http",
+      "url": "https://example.com/mcp167"
+    },
+    "s168": {
+      "type": "http",
+      "url": "https://example.com/mcp168"
+    },
+    "s169": {
+      "type": "http",
+      "url": "https://example.com/mcp169"
+    },
+    "s170": {
+      "type": "http",
+      "url": "https://example.com/mcp170"
+    },
+    "s171": {
+      "type": "http",
+      "url": "https://example.com/mcp171"
+    },
+    "s172": {
+      "type": "http",
+      "url": "https://example.com/mcp172"
+    },
+    "s173": {
+      "type": "http",
+      "url": "https://example.com/mcp173"
+    },
+    "s174": {
+      "type": "http",
+      "url": "https://example.com/mcp174"
+    },
+    "s175": {
+      "type": "http",
+      "url": "https://example.com/mcp175"
+    },
+    "s176": {
+      "type": "http",
+      "url": "https://example.com/mcp176"
+    },
+    "s177": {
+      "type": "http",
+      "url": "https://example.com/mcp177"
+    },
+    "s178": {
+      "type": "http",
+      "url": "https://example.com/mcp178"
+    },
+    "s179": {
+      "type": "http",
+      "url": "https://example.com/mcp179"
+    },
+    "s180": {
+      "type": "http",
+      "url": "https://example.com/mcp180"
+    },
+    "s181": {
+      "type": "http",
+      "url": "https://example.com/mcp181"
+    },
+    "s182": {
+      "type": "http",
+      "url": "https://example.com/mcp182"
+    },
+    "s183": {
+      "type": "http",
+      "url": "https://example.com/mcp183"
+    },
+    "s184": {
+      "type": "http",
+      "url": "https://example.com/mcp184"
+    },
+    "s185": {
+      "type": "http",
+      "url": "https://example.com/mcp185"
+    },
+    "s186": {
+      "type": "http",
+      "url": "https://example.com/mcp186"
+    },
+    "s187": {
+      "type": "http",
+      "url": "https://example.com/mcp187"
+    },
+    "s188": {
+      "type": "http",
+      "url": "https://example.com/mcp188"
+    },
+    "s189": {
+      "type": "http",
+      "url": "https://example.com/mcp189"
+    },
+    "s190": {
+      "type": "http",
+      "url": "https://example.com/mcp190"
+    },
+    "s191": {
+      "type": "http",
+      "url": "https://example.com/mcp191"
+    },
+    "s192": {
+      "type": "http",
+      "url": "https://example.com/mcp192"
+    },
+    "s193": {
+      "type": "http",
+      "url": "https://example.com/mcp193"
+    },
+    "s194": {
+      "type": "http",
+      "url": "https://example.com/mcp194"
+    },
+    "s195": {
+      "type": "http",
+      "url": "https://example.com/mcp195"
+    },
+    "s196": {
+      "type": "http",
+      "url": "https://example.com/mcp196"
+    },
+    "s197": {
+      "type": "http",
+      "url": "https://example.com/mcp197"
+    },
+    "s198": {
+      "type": "http",
+      "url": "https://example.com/mcp198"
+    },
+    "s199": {
+      "type": "http",
+      "url": "https://example.com/mcp199"
+    },
+    "s200": {
+      "type": "http",
+      "url": "https://example.com/mcp200"
+    },
+    "s201": {
+      "type": "http",
+      "url": "https://example.com/mcp201"
+    },
+    "s202": {
+      "type": "http",
+      "url": "https://example.com/mcp202"
+    },
+    "s203": {
+      "type": "http",
+      "url": "https://example.com/mcp203"
+    },
+    "s204": {
+      "type": "http",
+      "url": "https://example.com/mcp204"
+    },
+    "s205": {
+      "type": "http",
+      "url": "https://example.com/mcp205"
+    },
+    "s206": {
+      "type": "http",
+      "url": "https://example.com/mcp206"
+    },
+    "s207": {
+      "type": "http",
+      "url": "https://example.com/mcp207"
+    },
+    "s208": {
+      "type": "http",
+      "url": "https://example.com/mcp208"
+    },
+    "s209": {
+      "type": "http",
+      "url": "https://example.com/mcp209"
+    },
+    "s210": {
+      "type": "http",
+      "url": "https://example.com/mcp210"
+    },
+    "s211": {
+      "type": "http",
+      "url": "https://example.com/mcp211"
+    },
+    "s212": {
+      "type": "http",
+      "url": "https://example.com/mcp212"
+    },
+    "s213": {
+      "type": "http",
+      "url": "https://example.com/mcp213"
+    },
+    "s214": {
+      "type": "http",
+      "url": "https://example.com/mcp214"
+    },
+    "s215": {
+      "type": "http",
+      "url": "https://example.com/mcp215"
+    },
+    "s216": {
+      "type": "http",
+      "url": "https://example.com/mcp216"
+    },
+    "s217": {
+      "type": "http",
+      "url": "https://example.com/mcp217"
+    },
+    "s218": {
+      "type": "http",
+      "url": "https://example.com/mcp218"
+    },
+    "s219": {
+      "type": "http",
+      "url": "https://example.com/mcp219"
+    },
+    "s220": {
+      "type": "http",
+      "url": "https://example.com/mcp220"
+    },
+    "s221": {
+      "type": "http",
+      "url": "https://example.com/mcp221"
+    },
+    "s222": {
+      "type": "http",
+      "url": "https://example.com/mcp222"
+    },
+    "s223": {
+      "type": "http",
+      "url": "https://example.com/mcp223"
+    },
+    "s224": {
+      "type": "http",
+      "url": "https://example.com/mcp224"
+    },
+    "s225": {
+      "type": "http",
+      "url": "https://example.com/mcp225"
+    },
+    "s226": {
+      "type": "http",
+      "url": "https://example.com/mcp226"
+    },
+    "s227": {
+      "type": "http",
+      "url": "https://example.com/mcp227"
+    },
+    "s228": {
+      "type": "http",
+      "url": "https://example.com/mcp228"
+    },
+    "s229": {
+      "type": "http",
+      "url": "https://example.com/mcp229"
+    },
+    "s230": {
+      "type": "http",
+      "url": "https://example.com/mcp230"
+    },
+    "s231": {
+      "type": "http",
+      "url": "https://example.com/mcp231"
+    },
+    "s232": {
+      "type": "http",
+      "url": "https://example.com/mcp232"
+    },
+    "s233": {
+      "type": "http",
+      "url": "https://example.com/mcp233"
+    },
+    "s234": {
+      "type": "http",
+      "url": "https://example.com/mcp234"
+    },
+    "s235": {
+      "type": "http",
+      "url": "https://example.com/mcp235"
+    },
+    "s236": {
+      "type": "http",
+      "url": "https://example.com/mcp236"
+    },
+    "s237": {
+      "type": "http",
+      "url": "https://example.com/mcp237"
+    },
+    "s238": {
+      "type": "http",
+      "url": "https://example.com/mcp238"
+    },
+    "s239": {
+      "type": "http",
+      "url": "https://example.com/mcp239"
+    },
+    "s240": {
+      "type": "http",
+      "url": "https://example.com/mcp240"
+    },
+    "s241": {
+      "type": "http",
+      "url": "https://example.com/mcp241"
+    },
+    "s242": {
+      "type": "http",
+      "url": "https://example.com/mcp242"
+    },
+    "s243": {
+      "type": "http",
+      "url": "https://example.com/mcp243"
+    },
+    "s244": {
+      "type": "http",
+      "url": "https://example.com/mcp244"
+    },
+    "s245": {
+      "type": "http",
+      "url": "https://example.com/mcp245"
+    },
+    "s246": {
+      "type": "http",
+      "url": "https://example.com/mcp246"
+    },
+    "s247": {
+      "type": "http",
+      "url": "https://example.com/mcp247"
+    },
+    "s248": {
+      "type": "http",
+      "url": "https://example.com/mcp248"
+    },
+    "s249": {
+      "type": "http",
+      "url": "https://example.com/mcp249"
+    },
+    "s250": {
+      "type": "http",
+      "url": "https://example.com/mcp250"
+    },
+    "s251": {
+      "type": "http",
+      "url": "https://example.com/mcp251"
+    },
+    "s252": {
+      "type": "http",
+      "url": "https://example.com/mcp252"
+    },
+    "s253": {
+      "type": "http",
+      "url": "https://example.com/mcp253"
+    },
+    "s254": {
+      "type": "http",
+      "url": "https://example.com/mcp254"
+    },
+    "s255": {
+      "type": "http",
+      "url": "https://example.com/mcp255"
+    },
+    "s256": {
+      "type": "http",
+      "url": "https://example.com/mcp256"
+    },
+    "s257": {
+      "type": "http",
+      "url": "https://example.com/mcp257"
+    },
+    "s258": {
+      "type": "http",
+      "url": "https://example.com/mcp258"
+    },
+    "s259": {
+      "type": "http",
+      "url": "https://example.com/mcp259"
+    },
+    "s260": {
+      "type": "http",
+      "url": "https://example.com/mcp260"
+    },
+    "s261": {
+      "type": "http",
+      "url": "https://example.com/mcp261"
+    },
+    "s262": {
+      "type": "http",
+      "url": "https://example.com/mcp262"
+    },
+    "s263": {
+      "type": "http",
+      "url": "https://example.com/mcp263"
+    },
+    "s264": {
+      "type": "http",
+      "url": "https://example.com/mcp264"
+    },
+    "s265": {
+      "type": "http",
+      "url": "https://example.com/mcp265"
+    },
+    "s266": {
+      "type": "http",
+      "url": "https://example.com/mcp266"
+    },
+    "s267": {
+      "type": "http",
+      "url": "https://example.com/mcp267"
+    },
+    "s268": {
+      "type": "http",
+      "url": "https://example.com/mcp268"
+    },
+    "s269": {
+      "type": "http",
+      "url": "https://example.com/mcp269"
+    },
+    "s270": {
+      "type": "http",
+      "url": "https://example.com/mcp270"
+    },
+    "s271": {
+      "type": "http",
+      "url": "https://example.com/mcp271"
+    },
+    "s272": {
+      "type": "http",
+      "url": "https://example.com/mcp272"
+    },
+    "s273": {
+      "type": "http",
+      "url": "https://example.com/mcp273"
+    },
+    "s274": {
+      "type": "http",
+      "url": "https://example.com/mcp274"
+    },
+    "s275": {
+      "type": "http",
+      "url": "https://example.com/mcp275"
+    },
+    "s276": {
+      "type": "http",
+      "url": "https://example.com/mcp276"
+    },
+    "s277": {
+      "type": "http",
+      "url": "https://example.com/mcp277"
+    },
+    "s278": {
+      "type": "http",
+      "url": "https://example.com/mcp278"
+    },
+    "s279": {
+      "type": "http",
+      "url": "https://example.com/mcp279"
+    },
+    "s280": {
+      "type": "http",
+      "url": "https://example.com/mcp280"
+    },
+    "s281": {
+      "type": "http",
+      "url": "https://example.com/mcp281"
+    },
+    "s282": {
+      "type": "http",
+      "url": "https://example.com/mcp282"
+    },
+    "s283": {
+      "type": "http",
+      "url": "https://example.com/mcp283"
+    },
+    "s284": {
+      "type": "http",
+      "url": "https://example.com/mcp284"
+    },
+    "s285": {
+      "type": "http",
+      "url": "https://example.com/mcp285"
+    },
+    "s286": {
+      "type": "http",
+      "url": "https://example.com/mcp286"
+    },
+    "s287": {
+      "type": "http",
+      "url": "https://example.com/mcp287"
+    },
+    "s288": {
+      "type": "http",
+      "url": "https://example.com/mcp288"
+    },
+    "s289": {
+      "type": "http",
+      "url": "https://example.com/mcp289"
+    },
+    "s290": {
+      "type": "http",
+      "url": "https://example.com/mcp290"
+    },
+    "s291": {
+      "type": "http",
+      "url": "https://example.com/mcp291"
+    },
+    "s292": {
+      "type": "http",
+      "url": "https://example.com/mcp292"
+    },
+    "s293": {
+      "type": "http",
+      "url": "https://example.com/mcp293"
+    },
+    "s294": {
+      "type": "http",
+      "url": "https://example.com/mcp294"
+    },
+    "s295": {
+      "type": "http",
+      "url": "https://example.com/mcp295"
+    },
+    "s296": {
+      "type": "http",
+      "url": "https://example.com/mcp296"
+    },
+    "s297": {
+      "type": "http",
+      "url": "https://example.com/mcp297"
+    },
+    "s298": {
+      "type": "http",
+      "url": "https://example.com/mcp298"
+    },
+    "s299": {
+      "type": "http",
+      "url": "https://example.com/mcp299"
+    },
+    "s300": {
+      "type": "http",
+      "url": "https://example.com/mcp300"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "srv": {
+      "type": "http",
+      "url": "file:///etc/passwd"
+    }
+  }
+}

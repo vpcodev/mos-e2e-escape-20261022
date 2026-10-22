@@ -1,0 +1,8 @@
+{
+  "name": "cp-skills-arr",
+  "version": "1.0.0",
+  "skills": [
+    "../refs/skills",
+    "../../secrets"
+  ]
+}

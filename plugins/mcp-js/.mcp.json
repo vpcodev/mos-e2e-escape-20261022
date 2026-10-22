@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "srv": {
+      "type": "http",
+      "url": "javascript:alert(1)"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+CANARY-BARE-INPACKAGE-ok-if-copied
